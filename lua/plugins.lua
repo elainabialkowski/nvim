@@ -17,4 +17,5 @@ return require("packer").startup(function(use)
 	use 'nvim-treesitter/nvim-treesitter'
 	use "neovim/nvim-lspconfig"
 	use 'ray-x/go.nvim'
+	use 'iamcco/markdown-preview.nvim' 
 end)

@@ -74,6 +74,11 @@ _G.packer_plugins = {
     path = "/home/elaina/.local/share/nvim/site/pack/packer/start/go.nvim",
     url = "https://github.com/ray-x/go.nvim"
   },
+  ["markdown-preview.nvim"] = {
+    loaded = true,
+    path = "/home/elaina/.local/share/nvim/site/pack/packer/start/markdown-preview.nvim",
+    url = "https://github.com/iamcco/markdown-preview.nvim"
+  },
   ["nvim-lspconfig"] = {
     loaded = true,
     path = "/home/elaina/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",
